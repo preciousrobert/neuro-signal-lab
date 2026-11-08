@@ -1,0 +1,17 @@
+# Introduction to Neural Signal Processing 🧠
+
+Have you ever wondered how scientists study the electrical activity of the brain without actually seeing what neurons are doing?
+
+The brain is constantly active. Neurons communicate through electrical and chemical processes, and when populations of neurons work together, their activity can produce electrical patterns that we can measure. This is where **electroencephalography (EEG)** comes in.
+
+But recording brain activity is only the beginning.
+
+How do we make sense of these recordings? How do we identify patterns, understand frequencies, remove unwanted noise, and extract meaningful information from something as complex as the brain?
+
+Interestingly, the mathematics and engineering used to study signals such as sound and electrical waves can also be applied to brain recordings. This connection between engineering and neuroscience is what makes **neural signal processing** so fascinating.
+
+It raises an important question:
+
+> How did we begin applying the principles of Signals and Systems to understand the electrical activity of the brain?
+
+That is where my journey into neural signal processing begins.
